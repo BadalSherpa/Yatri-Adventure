@@ -1,0 +1,6 @@
+{
+  "name": "Yatri Adventure - Himalayan Expeditions & Escapes",
+  "description": "Discover curated Himalayan tour packages, peaceful homestays, local adventure experiences, and personalized trekking support across Nepal, Sikkim, and Darjeeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
